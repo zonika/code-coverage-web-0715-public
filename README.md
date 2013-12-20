@@ -1,3 +1,7 @@
+---
+  tags: simplecov, rspec, code coverage, testing
+  languages: ruby
+---
 ##RSpec Code Coverage Lab
 
 How do we know we have enough tests, and that our tests cover all of our code?
