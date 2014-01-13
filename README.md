@@ -12,12 +12,12 @@ This is important because you want to be able to know that every decision your p
 
 **Assignment**
 
-Given the above Jukebox and Song classes, write the tests required in jukebox_spec.rb to get yourself to 100% code coverage on simplecov.
+Given the above Jukebox and Song classes, write the tests required in spec/jukebox_spec.rb to get yourself to 100% code coverage on simplecov.
 
 **Instructions**
 
-1. Install the simplecov gem.
-2. Run your spec file with rspec
+1. Install the simplecov gem with `gem install simplecov`.
+2. Run your spec file with `rspec`.
 
 You should see output at the end of the test results that looks something like:
 `Coverage report generated for RSpec to /Users/scottreynolds/code/ta/labs/simplecov/coverage. 14 / 33 LOC (42.42%) covered.`
