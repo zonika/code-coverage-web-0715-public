@@ -1,6 +1,7 @@
 ---
   tags: simplecov, rspec, code coverage, testing
   languages: ruby
+  resources: 3
 ---
 ##RSpec Code Coverage Lab
 
@@ -24,3 +25,8 @@ You should see output at the end of the test results that looks something like:
 
 3. Open coverage/index.html in your browser window to view the report.
 4. When you hit 100% test coverage, submit either a gist or a repository of your solution and the coverage report
+
+## Resources
+* [Christoph Olszowka](https://github.com/colszowka/) - [SimpleCov](https://github.com/colszowka/simplecov)
+* [RailsCasts](http://railscasts.com/) - [Metrics Metrics Metrics](http://railscasts.com/episodes/252-metrics-metrics-metrics)
+* [About.com](http://ruby.about.com/) - [Simple Code Metrics in Ruby with SimpleCov](http://ruby.about.com/od/simplecov/ss/Simple-Code-Metrics-In-Ruby-With-Simplecov.htm)
