@@ -1,5 +1,5 @@
 ---
-  tags: simplecov, rspec, code coverage, testing
+  tags: simplecov, rspec, code coverage, testing, introduction
   languages: ruby
   resources: 3
 ---
