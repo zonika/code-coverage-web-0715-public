@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 # Use this song data for your tests
 songs = [
   "The Phoenix - 1901",
