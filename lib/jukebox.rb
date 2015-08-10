@@ -51,3 +51,14 @@ class Jukebox
   end
 
 end
+# songs = [
+#   "The Phoenix - 1901",
+#   "Tokyo Police Club - Wait Up",
+#   "Sufjan Stevens - Too Much",
+#   "The Naked and the Famous - Young Blood",
+#   "(Far From) Home - Tiga",
+#   "The Cults - Abducted",
+#   "The Phoenix - Consolation Prizes"
+# ]
+# jb=Jukebox.new(songs)
+# puts jb.list
